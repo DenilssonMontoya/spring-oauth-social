@@ -1,4 +1,4 @@
-# Authentication using Spring OAuth with Google 
+# Social Login using Spring OAuth2 with Google 
 
 **Learn how to create a social login with SPRING OAUTH + GOOGLE.**
 
